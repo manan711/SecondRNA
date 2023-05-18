@@ -49,7 +49,7 @@ const styles = StyleSheet.create({
         height: 180,
         marginBottom: 8,
         borderTopLeftRadius: 6,
-        borderTopRightRadius: 6
+        borderTopRightRadius: 6,
     },
     cardBody: {
         flex: 1,

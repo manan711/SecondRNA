@@ -18,7 +18,7 @@ export default function FlatCards() {
         </View>
       </View>
     </View>
-  )
+  );
 }
 
 const styles = StyleSheet.create({
